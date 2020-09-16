@@ -1,0 +1,7 @@
+site_name: MkLorum
+nav:
+    - Home: index.md
+    - About: about.md
+    - Java Básico: Java Básico.md
+    - About2: about2.md
+theme: readthedocs
